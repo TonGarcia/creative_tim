@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = 'CreativeTIM landingpage GEM'
   spec.description   = 'CreativeTIM landingpage GEM assets'
-  spec.homepage      = "http://demos.creative-tim.com/landing-page"
+  spec.homepage      = "https://github.com/TonGarcia/creative_awesome_landing"
   spec.license       = "MIT"
 
   spec.bindir        = "exe"

@@ -22,7 +22,19 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```javascript
+    //= require creative-tim/awesome-landing-page
+    //= require creative-tim/bootstrap
+    //= require creative-tim/jquery-1.10.2
+    //= require creative-tim/jquery-ui-1.10.4.custom.min
+```
+
+```css
+    *= require creative-tim/landing-page
+    *= require creative-tim/pe-icon-7-stroke
+```
+
+[Creative-Tim LandingPage](http://demos.creative-tim.com/landing-page)
 
 ## Development
 
