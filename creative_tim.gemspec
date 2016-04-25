@@ -1,17 +1,17 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'creative_awesome_landing/version'
+require 'creative_tim/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "creative_awesome_landing"
-  spec.version       = CreativeAwesomeLanding::VERSION
+  spec.name          = "creative_tim"
+  spec.version       = CreativeTim::VERSION
   spec.authors       = ["Ilton Garcia"]
   spec.email         = ["ton.garcia.jr@gmail.com"]
 
-  spec.summary       = 'CreativeTIM landingpage GEM'
-  spec.description   = 'CreativeTIM landingpage GEM assets'
-  spec.homepage      = "https://github.com/TonGarcia/creative_awesome_landing"
+  spec.summary       = 'CreativeTIM Free Resources GEM'
+  spec.description   = 'CreativeTIM Free Resources GEM assets'
+  spec.homepage      = "https://github.com/TonGarcia/creative_tim"
   spec.license       = "MIT"
 
   spec.bindir        = "exe"

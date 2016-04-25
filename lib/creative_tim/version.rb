@@ -1,6 +1,6 @@
-module CreativeAwesomeLanding
-  MAJOR = 1
+module CreativeTim
+  MAJOR = 0
   MINOR = 0
-  PATCH = 1
+  PATCH = 2
   VERSION = "#{MAJOR}.#{MINOR}.#{PATCH}"
 end
