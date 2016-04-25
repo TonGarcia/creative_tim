@@ -22,16 +22,31 @@ Or install it yourself as:
 
 ## Usage
 
+__Java Script__
+
 ```javascript
-    //= require creative-tim/awesome-landing-page
-    //= require creative-tim/bootstrap
-    //= require creative-tim/jquery-1.10.2
-    //= require creative-tim/jquery-ui-1.10.4.custom.min
+    //= require creative-tim/paper_dashboard/bootstrap.min
+    //= require creative-tim/paper_dashboard/bootstrap-checkbox-radio
+    //= require creative-tim/paper_dashboard/bootstrap-notify
+    //= require creative-tim/paper_dashboard/chartist.min
+    //= require creative-tim/paper_dashboard/demo
+    //= require creative-tim/paper_dashboard/paper-dashboard
 ```
 
+__CSS__
+
 ```css
-    *= require creative-tim/landing-page
-    *= require creative-tim/pe-icon-7-stroke
+     *= require creative-tim/paper_dashboard/bootstrap.min
+     *= require creative-tim/paper_dashboard/animate.min
+     *= require creative-tim/paper_dashboard/paper-dashboard
+     *= require creative-tim/paper_dashboard/demo
+```
+
+__Add the GEMs__:
+
+```ruby
+    gem 'font-awesome-rails', '~> 4.5'
+    gem 'themify-icons-rails', '~> 1.0', '>= 1.0.1.1'
 ```
 
 [Creative-Tim LandingPage](http://demos.creative-tim.com/landing-page)
