@@ -1333,8 +1333,8 @@ textarea.form-control {
 
 .checkbox:hover .first-icon,
 .radio:hover .first-icon {
-  opacity: 0;
-  filter: alpha(opacity=0);
+  opacity: 1;
+  filter: alpha(opacity=1);
 }
 
 .checkbox:hover .second-icon,
