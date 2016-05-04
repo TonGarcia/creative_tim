@@ -1,0 +1,39 @@
+.buttons {
+  .btn.border:hover,
+  .btn.border:focus,
+  .btn.border.focus {
+    color: white;
+    border: 1px solid white;
+    -webkit-transition: border 0.5s ease;
+    -moz-transition: border 0.5s ease;
+    -o-transition: border 0.5s ease;
+    transition: border 0.5s ease;
+  }
+}
+
+.btn-social.btn-simple.no-border {
+  border-color: transparent;
+}
+
+nav.navbar.navbar-default.white_flat {
+  z-index: 999;
+  height: 62px;
+  border-radius: 0;
+  background-color: #fff;
+}
+
+.sticky-wrapper.is-sticky {
+  nav.navbar.navbar-default.white_flat {
+    box-shadow: 0 2px 5px #888888;
+  }
+}
+
+.white_flat {
+  button.navbar-toggle {
+    margin-top: 12px;
+  }
+}
+
+.landing-page .section-features {
+  padding: 70px 0 !important;
+}
