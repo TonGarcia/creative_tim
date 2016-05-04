@@ -1,15 +1,11 @@
-# CreativeAwesomeLanding
-
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/creative_awesome_landing`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+# Creative-Tim Free-Products
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'creative_awesome_landing'
+  gem 'creative_tim'
 ```
 
 And then execute:
@@ -18,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install creative_awesome_landing
+    $ gem install creative_tim
 
 ## Usage
 
@@ -36,10 +32,12 @@ __Java Script__
 __CSS__
 
 ```css
+    /*
      *= require creative-tim/paper_dashboard/bootstrap.min
      *= require creative-tim/paper_dashboard/animate.min
      *= require creative-tim/paper_dashboard/paper-dashboard
      *= require creative-tim/paper_dashboard/demo
+    */
 ```
 
 __Add the GEMs__:
@@ -49,7 +47,7 @@ __Add the GEMs__:
     gem 'themify-icons-rails', '~> 1.0', '>= 1.0.1.1'
 ```
 
-[Creative-Tim LandingPage](http://demos.creative-tim.com/landing-page)
+[Creative-Tim Products](http://demos.creative-tim.com/products)
 
 ## Development
 
